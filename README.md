@@ -1,4 +1,7 @@
-# test coverage for  [mysql2 (v1.2.0)](https://github.com/sidorares/node-mysql2#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mysql2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mysql2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mysql2.svg)](https://travis-ci.org/npmtest/node-npmtest-mysql2)
+# npmtest-mysql2
+
+#### test coverage for  [mysql2 (v1.2.0)](https://github.com/sidorares/node-mysql2#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mysql2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mysql2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mysql2.svg)](https://travis-ci.org/npmtest/node-npmtest-mysql2)
+
 #### fast mysql driver. Implements core protocol, prepared statements, ssl and compression in native JS
 
 [![NPM](https://nodei.co/npm/mysql2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mysql2)
