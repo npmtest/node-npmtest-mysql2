@@ -11,7 +11,7 @@
 <tspan x="10" y="138">  │   └── esprima@3.0.0 </tspan>
 <tspan x="10" y="154">  ├── denque@1.1.1 </tspan>
 <tspan x="10" y="170">  ├── generate-function@2.0.0 </tspan>
-<tspan x="10" y="186">  ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="186">  ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="202">  ├── long@3.2.0 </tspan>
 <tspan x="10" y="218">  ├─┬ lru-cache@4.0.2 </tspan>
 <tspan x="10" y="234">  │ ├── pseudomap@1.0.2 </tspan>
