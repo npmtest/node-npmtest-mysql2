@@ -1,6 +1,6 @@
 # npmtest-mysql2
 
-#### test coverage for  [mysql2 (v1.2.0)](https://github.com/sidorares/node-mysql2#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mysql2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mysql2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mysql2.svg)](https://travis-ci.org/npmtest/node-npmtest-mysql2)
+#### basic test coverage for  [mysql2 (v1.2.0)](https://github.com/sidorares/node-mysql2#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mysql2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mysql2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mysql2.svg)](https://travis-ci.org/npmtest/node-npmtest-mysql2)
 
 #### fast mysql driver. Implements core protocol, prepared statements, ssl and compression in native JS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-mysql2/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-mysql2/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-mysql2/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-mysql2/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mysql2/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mysql2/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-mysql2/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-mysql2/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mysql2/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mysql2/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-mysql2/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-mysql2/build/coverage.html/index.html)
 
@@ -116,7 +116,8 @@
         "test": "npm run lint && npm run test:raw",
         "test:raw": "node ./test/run.js && MYSQL_USE_COMPRESSION=1 node ./test/run.js"
     },
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "bin": {}
 }
 ```
 
